@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Large embedding files
+*.npy
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Processed data files
+*_processed.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/

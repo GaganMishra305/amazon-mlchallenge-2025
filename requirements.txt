@@ -1,0 +1,11 @@
+numpy
+pandas
+tqdm
+requests
+matplotlib
+seaborn
+scikit-learn
+sentence_transformers>=2.2
+torch
+torchvision
+Pillow
